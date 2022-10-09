@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea02</string>
+    <string name="DUO"> DUO S/.200</string>
+    <string name="TRIO"> TRIO S/.300</string>
+    <string name="CAMARAS"> CAMARAS S/.100</string>
+    <string name="ROBOS"> ROBOS S/.100</string>
+    <string name="INCENDIO"> INCENDIO S/.100</string>
+    <string name="CERCOS"> CERCOS S/.100</string>
+</resources>
